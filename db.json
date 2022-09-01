@@ -1,0 +1,43 @@
+{
+  "Cep": [
+    {
+      "cep": "63300-000",
+      "logradouro": "",
+      "complemento": "",
+      "bairro": "",
+      "localidade": "Lavras da Mangabeira",
+      "uf": "CE",
+      "ibge": "2307502",
+      "gia": "",
+      "ddd": "88",
+      "siafi": "1451",
+      "id": 4
+    },
+    {
+      "cep": "63300-000",
+      "logradouro": "",
+      "complemento": "",
+      "bairro": "",
+      "localidade": "Lavras da Mangabeira",
+      "uf": "CE",
+      "ibge": "2307502",
+      "gia": "",
+      "ddd": "88",
+      "siafi": "1451",
+      "id": 5
+    },
+    {
+      "cep": "63300-000",
+      "logradouro": "",
+      "complemento": "",
+      "bairro": "",
+      "localidade": "Lavras da Mangabeira",
+      "uf": "CE",
+      "ibge": "2307502",
+      "gia": "",
+      "ddd": "88",
+      "siafi": "1451",
+      "id": 6
+    }
+  ]
+}
